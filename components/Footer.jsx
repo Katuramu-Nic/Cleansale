@@ -4,7 +4,7 @@ const Footer = () => {
     return (
         <div className="footer-container">
 <p>
-    2020 Mbogamalls © All rights reserved.
+    2020 Mbogamall © All rights reserved.
 </p>
 <p className="icons">
 <AiFillInstagram />
